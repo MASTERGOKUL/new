@@ -8,8 +8,9 @@ import "../../vendor/boxicons/css/boxicons.min.css" ;
 import "../../vendor/glightbox/css/glightbox.min.css" ;
 import "../../vendor/remixicon/remixicon.css" ;
 import "../../vendor/swiper/swiper-bundle.min.css" ; 
-export default function FilterMain(){
+const  FilterMain=()=>{
     return(
+      <body>
         <main id="main" style="margin-top: 10vh">
         <div className="container-fluid mt-5">
           <div className="row">
@@ -327,5 +328,7 @@ export default function FilterMain(){
           </div>
         </div>
       </main>
+      </body>
     );
-}
+};
+export default FilterMain;
