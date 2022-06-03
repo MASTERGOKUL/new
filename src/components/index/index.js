@@ -22,63 +22,63 @@ const Index = ()=>{
 
     <div style="margin-top:15vh;">
 
-    <section id="hero" class="d-flex align-items-center">
-      <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
-        <div class="row justify-content-center">
-          <div class="col-xl-7 col-lg-9 text-center">
+    <section id="hero" className="d-flex align-items-center">
+      <div className="container position-relative" data-aos="fade-up" data-aos-delay="100">
+        <div className="row justify-content-center">
+          <div className="col-xl-7 col-lg-9 text-center">
             <h1>Limulator</h1>
             <h2>We are team of talented designers</h2>
           </div>
         </div>
-        <div class="text-center">
-          <a href="#about" class="btn-get-started scrollto">Try our Limulator</a>
-          <a href="#contact" class="btn-get-started scrollto">Request Demo</a>
-          <a href="#about" class="btn-get-started scrollto">Upload 3D model/ Lidar data</a>
+        <div className="text-center">
+          <a href="#about" className="btn-get-started scrollto">Try our Limulator</a>
+          <a href="#contact" className="btn-get-started scrollto">Request Demo</a>
+          <a href="#about" className="btn-get-started scrollto">Upload 3D model/ Lidar data</a>
         </div>
 
-        <div class="row icon-boxes">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
+        <div className="row icon-boxes">
+          <div className="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
             data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="ri-stack-line"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">
+            <div className="icon-box">
+              <div className="icon"><i className="ri-stack-line"></i></div>
+              <h4 className="title"><a href="">Lorem Ipsum</a></h4>
+              <p className="description">
                 Voluptatum deleniti atque corrupti quos dolores et quas
                 molestias excepturi
               </p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
+          <div className="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
             data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="ri-palette-line"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">
+            <div className="icon-box">
+              <div className="icon"><i className="ri-palette-line"></i></div>
+              <h4 className="title"><a href="">Sed ut perspiciatis</a></h4>
+              <p className="description">
                 Duis aute irure dolor in reprehenderit in voluptate velit esse
                 cillum dolore
               </p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
+          <div className="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
             data-aos-delay="400">
-            <div class="icon-box">
-              <div class="icon"><i class="ri-command-line"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">
+            <div className="icon-box">
+              <div className="icon"><i className="ri-command-line"></i></div>
+              <h4 className="title"><a href="">Magni Dolores</a></h4>
+              <p className="description">
                 Excepteur sint occaecat cupidatat non proident, sunt in culpa
                 qui officia
               </p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
+          <div className="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
             data-aos-delay="500">
-            <div class="icon-box">
-              <div class="icon"><i class="ri-fingerprint-line"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">
+            <div className="icon-box">
+              <div className="icon"><i className="ri-fingerprint-line"></i></div>
+              <h4 className="title"><a href="">Nemo Enim</a></h4>
+              <p className="description">
                 At vero eos et accusamus et iusto odio dignissimos ducimus qui
                 blanditiis
               </p>

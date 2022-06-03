@@ -166,14 +166,14 @@
 
   /**
    * Initiate glightbox 
-   */
+   
   const glightbox = GLightbox({
     selector: '.glightbox'
-  });
+  });*/
 
   /**
    * Testimonials slider
-   */
+   
   new Swiper('.testimonials-slider', {
     speed: 600,
     loop: true,
@@ -198,11 +198,11 @@
         spaceBetween: 20
       }
     }
-  });
+  });*/
 
   /**
    * Porfolio isotope and filter
-   */
+   
   window.addEventListener('load', () => {
     let portfolioContainer = select('.portfolio-container');
     if (portfolioContainer) {
@@ -228,18 +228,18 @@
       }, true);
     }
 
-  });
+  });*/
 
   /**
    * Initiate portfolio lightbox 
-   */
+   
   const portfolioLightbox = GLightbox({
     selector: '.portfolio-lightbox'
-  });
+  });*/
 
   /**
    * Portfolio details slider
-   */
+   
   new Swiper('.portfolio-details-slider', {
     speed: 400,
     loop: true,
@@ -252,11 +252,11 @@
       type: 'bullets',
       clickable: true
     }
-  });
+  });*/
 
   /**
    * Animation on scroll
-   */
+   
   window.addEventListener('load', () => {
     AOS.init({
       duration: 1000,
@@ -264,6 +264,6 @@
       once: true,
       mirror: false
     })
-  });
+  });*/
 
 })()

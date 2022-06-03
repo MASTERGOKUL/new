@@ -50,7 +50,7 @@ export default function Footer(){
                 </ul>
               </div>
     
-              <div class="col-lg-4 col-md-6 footer-newsletter">
+              <div className="col-lg-4 col-md-6 footer-newsletter">
                 <h4>Join Our Newsletter</h4>
                 <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
                 <form action="" method="post">

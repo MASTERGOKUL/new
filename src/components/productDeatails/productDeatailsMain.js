@@ -35,7 +35,7 @@ export default function ProductMain(){
             <div className="row">
               <div className="col-lg-4">
                 <h6>Product id</h6>
-                <button clasNames="btn btn-primary">DP1.00001.001</button>
+                <button className="btn btn-primary">DP1.00001.001</button>
                 <h6>Scientific Keywords</h6>
                 <span className="badge bg-secondary rounded-pill">New</span>
                 <span className="badge bg-secondary rounded-pill">New</span>

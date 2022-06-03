@@ -509,8 +509,8 @@ export default function IndexMain(){
                     <li>Pharetra massa</li>
                     <li>Massa ultricies mi</li>
                   </ul>
-                  <div class="btn-wrap">
-                    <a href="#" class="btn-buy">Buy Now</a>
+                  <div className="btn-wrap">
+                    <a href="#" className="btn-buy">Buy Now</a>
                   </div>
                 </div>
               </div>

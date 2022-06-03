@@ -43,7 +43,7 @@ export default function SignupMain(){
                     <input type="date" className="form-control" id="dob" aria-describedby="emailHelp" required />
         
                   </div>
-                  <div class="mb-3">
+                  <div className="mb-3">
                     <label for="exampleInputEmail1" className="form-label">Occupation</label>
                     <input type="text" className="form-control" id="Occupation" aria-describedby="emailHelp" required placeholder="Enter your Occupation"/>
         
